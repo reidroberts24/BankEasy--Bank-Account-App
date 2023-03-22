@@ -5,7 +5,7 @@ import src.utilities.CSV;
 public class BankAccountApp {
     
     public static void main(String[] args) {
-        String file = "";
+        String file = ""; //need file name
         List<String[]> newAccountHolders = src.utilities.CSV.read(file);
         
         /* 
