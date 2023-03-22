@@ -1,5 +1,4 @@
-package bankaccountapp;
-
+package src.bankaccountapp;
 
 public class Checking extends Account {
     //list properties specific to a checking account

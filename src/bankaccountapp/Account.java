@@ -1,4 +1,4 @@
-package bankaccountapp;
+package src.bankaccountapp;
 
 public abstract class Account implements IRate {
     //list common properties for savings and checking accounts

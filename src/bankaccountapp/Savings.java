@@ -1,4 +1,4 @@
-package bankaccountapp;
+package src.bankaccountapp;
 
 public class Savings extends Account {
     //list properties specific to savings account
@@ -33,3 +33,4 @@ public class Savings extends Account {
     }
 
 }
+

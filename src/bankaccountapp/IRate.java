@@ -1,4 +1,4 @@
-package bankaccountapp;
+package src.bankaccountapp;
 
 public interface IRate {
     //write a method to determine base interest rate from external source
